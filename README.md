@@ -2,6 +2,8 @@
 
 ### Introduction
 
+"Programming is the act of constructing a program - a set of precise instructions telling a computer what to do"
+
 ## Part 1: Language
 
 ### 1) Values, Types, and Operators
